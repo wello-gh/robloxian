@@ -7,8 +7,12 @@ Robloxian is a Python cheat for Roblox. It works using teleport data in Roblox. 
 This code is prone to crashing and getting detected. However I am working on fixing this soon. If you want to help you can create an issue or a pull request.
 
 ## Installation
-
 This expects that you have the [latest version of Python](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe) installed on your computer.
+
+### Compiled
+Find the latest compiled version of robloxian in the [Releases tab](https://github.com/wello-gh/robloxian/releases).
+
+### Source
 
 **Step 1**.
 Clone the github repository to your computer.
