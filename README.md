@@ -1,6 +1,6 @@
 # Robloxian
 
-Robloxian is a Python cheat for Roblox. It works using the TeleportData in Roblox. In the TeleportData we place our injection script. But we can't use it yet, in order to execute that script we overwrite the Animate script avaliable in your character. Now all you need to do is to reset your character and use the executor.
+Robloxian is a Python cheat for Roblox. It works using teleport data in Roblox. We place our injection script in the teleport data when teleporting. But we can't use it yet, in order to execute that script we overwrite the Animate script avaliable in your character. Now all you need to do is to reset your character and use the executor.
 
 ## Disclaimer
 
